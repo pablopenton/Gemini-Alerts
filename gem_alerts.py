@@ -178,15 +178,3 @@ if __name__ == '__main__':
     # Send args to handler function
     args_handler(args)
     logging.info('Main task finished.')
-
-
-
-# sym_dev = determine_price_dev('btcusd')
-# print(sym_dev)
-#
-# print(determine_price_change('btcusd', 0.1))
-#
-# print(determine_vol_deviation('btcusd', 2))
-
-
-
