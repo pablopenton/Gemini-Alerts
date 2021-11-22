@@ -10,6 +10,10 @@ The CLI tool supports specifying a specific currency or none at all. If none are
 
 CLI arguments match as described in submission example.
 
+```buildoutcfg
+python gem_alerts.py -c btcusd -t pricechange -d 1
+```
+
 ## Requirements
 
  - Python 3 (this was developed in 3.8)
